@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Node-Kit</id>
-    <version>5.2.0</version>
+    <version>11.1.0</version>
     <authors>Node.js Foundation</authors>
     <owners>Pavel Egorov</owners>
     <licenseUrl>https://raw.githubusercontent.com/nodejs/node/master/LICENSE</licenseUrl>
